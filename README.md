@@ -31,3 +31,19 @@ php artisan key:generate
  ```
 php artisan serve
  ```
+
+
+Login credential
+
+
+Owner:
+  username: owner
+  password: owner123
+  
+Manager:
+  username: manager
+  password: manager123
+
+Cashier:
+  username: cashier
+  password: cashier123
