@@ -7,13 +7,13 @@ To run the project
 
 2. Go to the pharmacy directory
  ```
- cd pharmacy
+cd pharmacy
  ```
 3. Installs the project dependencies from the composer
 ```
- composer install
+composer install
 ```
 5. Run the laravel project
  ```
- php artisan serve
+php artisan serve
  ```
