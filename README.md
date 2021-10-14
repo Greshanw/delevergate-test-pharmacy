@@ -13,7 +13,20 @@ cd pharmacy
 ```
 composer install
 ```
-5. Run the laravel project
+4. Generate .env file as .env.example
+On linux environment
+```
+cp .env.example .env
+```
+On windows
+```
+copy .env.example .env
+```
+5. Set the application key
+```
+php artisan key:generate
+```
+6. Run the laravel project
  ```
 php artisan serve
  ```
