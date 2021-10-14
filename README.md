@@ -10,7 +10,7 @@ To run the project
  cd pharmacy
  ```
  
-3.Run the laravel project
+3. Run the laravel project
  ```
  php artisan serve
  ```
