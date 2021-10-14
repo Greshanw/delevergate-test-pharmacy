@@ -9,8 +9,11 @@ To run the project
  ```
  cd pharmacy
  ```
- 
-3. Run the laravel project
+3. Installs the project dependencies from the composer
+```
+ composer install
+```
+5. Run the laravel project
  ```
  php artisan serve
  ```
