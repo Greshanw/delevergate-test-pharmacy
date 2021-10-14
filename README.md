@@ -1,7 +1,7 @@
 # delevergate-test-pharmacy
 This project is made for an interview test
 
-To run the project
+## Step to run the project ##
 
 1. Clone the repository
 
@@ -15,11 +15,11 @@ composer install
 ```
 4. Generate .env file as .env.example
 
-On linux environment
+On linux environment:
 ```
 cp .env.example .env
 ```
-On windows
+On windows:
 ```
 copy .env.example .env
 ```
@@ -33,17 +33,17 @@ php artisan serve
  ```
 
 
-Login credential
+## Login credential ##
 
 
-Owner:
-  username: owner
-  password: owner123
-  
-Manager:
-  username: manager
-  password: manager123
+Owner:\
+&nbsp;&nbsp;username: owner\
+&nbsp;&nbsp;password: owner123
 
-Cashier:
-  username: cashier
-  password: cashier123
+Manager:\
+&nbsp;&nbsp;username: manager\
+&nbsp;&nbsp;password: manager123
+
+Cashier:\
+&nbsp;&nbsp;username: cashier\
+&nbsp;&nbsp;password: cashier123
