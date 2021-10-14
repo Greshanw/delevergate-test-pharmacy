@@ -14,6 +14,7 @@ cd pharmacy
 composer install
 ```
 4. Generate .env file as .env.example
+
 On linux environment
 ```
 cp .env.example .env
